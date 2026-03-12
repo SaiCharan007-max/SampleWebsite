@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://saicharan007-max.github.io/sampleWebsiteforRestaurant",
+  "homepage": "https://saicharan007-max.github.io/SampleWebsite",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
